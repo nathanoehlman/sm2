@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="714.98999"
+   height="600.40448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="publish-process.svg"
+   inkscape:export-filename="/Volumes/development/projects/steelmesh/steelmesh-design/docs/publish-process.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3943"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3946"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <clipPath
+       id="clipPath30"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path32"
+         d="M 0,0 187,0 187,51 0,51 0,0 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath18"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path20"
+         d="m 0,0 186.385,0 0,50.16 L 0,50.16 0,0 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath18-8"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path20-2"
+         d="m 0,0 186.385,0 0,50.16 L 0,50.16 0,0 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath30-2"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path32-6"
+         d="M 0,0 187,0 187,51 0,51 0,0 z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.062617"
+     inkscape:cx="357.49591"
+     inkscape:cy="375.48805"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1873"
+     inkscape:window-height="1036"
+     inkscape:window-x="47"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.483453,-22.718895)">
+    <g
+       id="g3903"
+       transform="matrix(1.0934295,0,0,1.0934569,20.733493,218.96083)">
+      <polygon
+         id="polygon3857"
+         points="201.51,48.685 201.51,10.92 20.542,10.92 20.542,48.685 6.383,48.685 6.383,126.065 215.396,126.065 215.396,48.685 "
+         style="fill:#ff0000" />
+      <path
+         id="path3859"
+         d="M 2.605,127.709 V 44.906 h 14.16 V 7.142 h 188.522 v 37.764 h 13.885 v 82.803 H 2.605 l 0,0 z m 5.905,-2.973 203.994,0.179 -0.884,-72.453 H 197.73 V 14.696 H 24.317 v 37.766 h -14.16 l -1.381,69.877 -0.266,2.397 z"
+         inkscape:connector-curvature="0"
+         style="fill:#eb1019" />
+      <polygon
+         id="polygon3861"
+         points="55.305,0.438 29.972,6.829 29.972,23.848 36.422,32.574 55.382,26.136 "
+         style="fill:#ffffff" />
+      <polygon
+         id="polygon3863"
+         points="33.899,93.641 76.686,103.309 187.977,92.94 188.003,126.69 33.813,126.69 "
+         style="fill:#bd101d;stroke:#bd101d;stroke-width:0.91454226" />
+      <polygon
+         id="polygon3865"
+         points="187.13,75.945 187.13,52.758 161.239,69.688 149.609,64.863 125.424,48.352 96.529,57.145 33.871,52.401 33.871,74.63 73.602,86.029 "
+         style="fill:#bd101d;stroke:#bd101d;stroke-width:0.91454226" />
+      <polygon
+         id="polygon3867"
+         points="77.334,34.173 95.421,15.785 112.66,15.785 119.461,21.515 119.461,15.785 133.01,15.785 129.737,8.181 90.051,1.897 53.414,25.361 16.749,37.652 9.587,45.228 9.587,65.542 19.699,69.846 19.699,58.113 24.002,61.485 24.002,53.469 33.871,53.467 52.137,80.971 58.873,82.808 68.02,120.713 72.766,122.681 76.123,136.549 102.592,136.549 89.863,83.941 125.821,60.593 145.377,77.117 150.128,75.256 151.931,80.169 187.13,77.01 184.075,69.212 164.271,64.369 128.412,35.152 89.34,49.973 "
+         style="fill:#ffffff" />
+      <g
+         id="g3869">
+        <path
+           id="path3871"
+           d="m 34.008,171.487 c -1.599,0.827 -5.126,1.709 -9.59,1.709 -11.794,0 -18.959,-7.44 -18.959,-18.739 0,-12.235 8.487,-19.621 19.841,-19.621 4.464,0 7.661,0.938 9.039,1.653 l -1.488,5.401 c -1.764,-0.771 -4.188,-1.433 -7.275,-1.433 -7.551,0 -13.007,4.74 -13.007,13.668 0,8.157 4.795,13.394 12.952,13.394 2.756,0 5.622,-0.552 7.385,-1.378 l 1.102,5.346 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3873"
+           d="m 63.271,158.922 c 0,9.865 -6.944,14.274 -13.779,14.274 -7.606,0 -13.448,-5.236 -13.448,-13.834 0,-8.818 5.787,-14.22 13.889,-14.22 7.991,0.001 13.338,5.623 13.338,13.78 z m -20.228,0.275 c 0,5.181 2.535,9.094 6.669,9.094 3.858,0 6.559,-3.803 6.559,-9.204 0,-4.188 -1.874,-8.983 -6.503,-8.983 -4.796,0 -6.725,4.628 -6.725,9.093 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3875"
+           d="m 91.942,164.543 c 0,3.197 0.11,5.842 0.221,8.047 H 86.21 l -0.331,-4.078 h -0.11 c -1.157,1.929 -3.803,4.685 -8.598,4.685 -4.905,0 -9.37,-2.921 -9.37,-11.685 v -15.763 h 6.779 v 14.605 c 0,4.464 1.433,7.33 5.015,7.33 2.701,0 4.464,-1.929 5.181,-3.638 0.221,-0.606 0.386,-1.322 0.386,-2.094 v -16.204 h 6.779 v 18.795 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3877"
+           d="m 118.002,171.763 c -1.434,0.662 -4.244,1.434 -7.606,1.434 -8.377,0 -13.833,-5.401 -13.833,-13.724 0,-8.047 5.511,-14.33 14.936,-14.33 2.48,0 5.016,0.551 6.559,1.268 l -1.212,5.07 c -1.103,-0.496 -2.7,-1.047 -5.126,-1.047 -5.181,0 -8.267,3.803 -8.212,8.708 0,5.512 3.583,8.653 8.212,8.653 2.37,0 4.023,-0.496 5.346,-1.047 l 0.936,5.015 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3879"
+           d="m 121.904,133.458 h 6.834 v 15.983 h 0.111 c 0.826,-1.268 1.983,-2.37 3.361,-3.086 1.322,-0.771 2.922,-1.213 4.63,-1.213 4.574,0 9.37,3.031 9.37,11.629 v 15.818 h -6.779 v -15.046 c 0,-3.913 -1.434,-6.835 -5.182,-6.835 -2.645,0 -4.52,1.764 -5.235,3.803 -0.221,0.552 -0.276,1.269 -0.276,2.04 v 16.038 h -6.834 v -39.131 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3881"
+           d="m 152.742,135.938 c 2.977,-0.496 6.779,-0.771 10.803,-0.771 6.944,0 11.739,1.433 15.156,4.299 3.583,2.921 5.787,7.33 5.787,13.669 0,6.613 -2.26,11.573 -5.787,14.771 -3.692,3.362 -9.59,5.07 -16.81,5.07 -3.969,0 -6.944,-0.221 -9.149,-0.496 v -36.542 z m 6.779,31.471 c 0.937,0.165 2.37,0.165 3.748,0.165 8.818,0.056 14.054,-4.795 14.054,-14.22 0.056,-8.212 -4.685,-12.896 -13.172,-12.896 -2.149,0 -3.693,0.165 -4.63,0.386 v 26.565 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3883"
+           d="m 189.605,135.938 c 2.149,-0.44 6.062,-0.771 9.865,-0.771 5.016,0 8.103,0.606 10.638,2.37 2.314,1.378 3.857,3.803 3.857,6.944 0,3.417 -2.149,6.559 -6.173,8.047 v 0.11 c 3.914,0.992 7.496,4.078 7.496,9.204 0,3.307 -1.433,5.897 -3.582,7.661 -2.646,2.314 -7,3.472 -13.779,3.472 -3.748,0 -6.613,-0.275 -8.322,-0.496 v -36.541 z m 6.724,14.661 h 3.473 c 4.685,0 7.33,-2.204 7.33,-5.346 0,-3.473 -2.646,-5.07 -6.944,-5.07 -1.984,0 -3.142,0.11 -3.858,0.275 v 10.141 z m 0,17.086 c 0.882,0.165 2.04,0.165 3.583,0.165 4.354,0 8.212,-1.653 8.212,-6.228 0,-4.299 -3.748,-6.062 -8.433,-6.062 h -3.362 v 12.125 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g3885">
+        <path
+           id="path3887"
+           d="m 152.609,183.135 c 0,-1.57 -0.027,-2.921 -0.11,-4.161 h 2.122 l 0.083,2.618 h 0.109 c 0.606,-1.791 2.067,-2.921 3.693,-2.921 0.275,0 0.468,0.027 0.688,0.082 v 2.288 c -0.248,-0.056 -0.496,-0.083 -0.826,-0.083 -1.709,0 -2.922,1.295 -3.252,3.114 -0.056,0.33 -0.11,0.716 -0.11,1.13 v 7.109 h -2.397 v -9.176 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ff0000" />
+        <path
+           id="path3889"
+           d="m 165.289,186.084 c 0.055,3.279 2.149,4.629 4.574,4.629 1.736,0 2.783,-0.303 3.692,-0.688 l 0.414,1.736 c -0.854,0.386 -2.315,0.854 -4.438,0.854 -4.105,0 -6.559,-2.728 -6.559,-6.751 0,-4.023 2.37,-7.192 6.256,-7.192 4.354,0 5.512,3.83 5.512,6.283 0,0.496 -0.056,0.882 -0.083,1.13 h -9.368 z m 7.109,-1.736 c 0.027,-1.543 -0.634,-3.941 -3.362,-3.941 -2.452,0 -3.527,2.26 -3.72,3.941 h 7.082 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ff0000" />
+        <path
+           id="path3891"
+           d="m 180.262,172.746 h 2.425 v 19.565 h -2.425 v -19.565 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ff0000" />
+        <path
+           id="path3893"
+           d="m 198.469,189.115 c 0,1.157 0.056,2.287 0.221,3.196 h -2.204 l -0.193,-1.681 h -0.083 c -0.744,1.047 -2.177,1.983 -4.078,1.983 -2.7,0 -4.078,-1.901 -4.078,-3.83 0,-3.225 2.865,-4.988 8.019,-4.96 v -0.276 c 0,-1.102 -0.303,-3.086 -3.031,-3.086 -1.24,0 -2.535,0.386 -3.472,0.992 l -0.552,-1.599 c 1.103,-0.717 2.701,-1.185 4.382,-1.185 4.078,0 5.07,2.783 5.07,5.456 v 4.99 z m -2.342,-3.61 c -2.646,-0.055 -5.649,0.413 -5.649,3.004 0,1.57 1.047,2.314 2.287,2.314 1.736,0 2.839,-1.103 3.225,-2.232 0.082,-0.247 0.138,-0.523 0.138,-0.771 v -2.315 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ff0000" />
+        <path
+           id="path3895"
+           d="m 206.228,178.974 1.901,2.866 c 0.496,0.744 0.909,1.433 1.351,2.177 h 0.082 c 0.441,-0.799 0.882,-1.488 1.323,-2.204 l 1.874,-2.839 h 2.618 l -4.548,6.448 4.686,6.89 h -2.756 l -1.957,-3.004 c -0.523,-0.771 -0.964,-1.516 -1.433,-2.314 h -0.056 c -0.44,0.826 -0.909,1.516 -1.405,2.314 l -1.929,3.004 h -2.673 l 4.739,-6.807 -4.519,-6.531 h 2.702 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ff0000" />
+      </g>
+    </g>
+    <g
+       id="g3933"
+       transform="matrix(1.0934295,0,0,1.0934569,-35.049478,-90.771824)">
+      <rect
+         y="103.79076"
+         x="49.414497"
+         height="67.14286"
+         width="653.44263"
+         id="rect3927"
+         style="fill:#2c5aa0;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3929"
+         y="145.70615"
+         x="377.3107"
+         style="font-size:22.3816967px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="145.70615"
+           x="377.3107"
+           id="tspan3931"
+           sodipodi:role="line">Mesh Command Line Tools</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 146.14741,114.88168 0,98.41112"
+       id="path3938"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:15.58633804px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="136.8764"
+       y="155.1113"
+       id="text4384"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99998751,1.0000125)"><tspan
+         sodipodi:role="line"
+         x="136.8764"
+         y="155.1113"
+         id="tspan4388">publish</tspan><tspan
+         sodipodi:role="line"
+         x="136.8764"
+         y="174.59422"
+         id="tspan4396">app</tspan></text>
+    <g
+       transform="matrix(1.0934295,0,0,1.0934569,-35.049478,436.21481)"
+       id="g4591">
+      <rect
+         style="fill:#2c5aa0;fill-opacity:1;stroke:none"
+         id="rect4593"
+         width="653.44263"
+         height="67.14286"
+         x="49.414497"
+         y="103.79076" />
+      <text
+         xml:space="preserve"
+         style="font-size:30.77061653px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         x="377.1059"
+         y="148.83356"
+         id="text4595"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4597"
+           x="377.1059"
+           y="148.83356">Steelmesh Server</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4599"
+       d="m 101.2424,438.46997 0,98.41112"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4601"
+       y="478.6955"
+       x="91.970833"
+       style="font-size:15.58633804px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       transform="scale(0.99998751,1.0000125)"><tspan
+         y="478.6955"
+         x="91.970833"
+         sodipodi:role="line"
+         id="tspan4609">monitor</tspan><tspan
+         y="498.17841"
+         x="91.970833"
+         sodipodi:role="line"
+         id="tspan4613">_changes</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m 171.24137,438.46997 0,98.41112"
+       id="path4801"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:15.58633804px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="190.19666"
+       y="478.6955"
+       id="text4987"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99998751,1.0000125)"><tspan
+         id="tspan4991"
+         sodipodi:role="line"
+         x="190.19666"
+         y="478.6955"
+         style="text-align:start;text-anchor:start">download</tspan><tspan
+         sodipodi:role="line"
+         x="190.19666"
+         y="498.17841"
+         style="text-align:start;text-anchor:start"
+         id="tspan4995">app on </tspan><tspan
+         sodipodi:role="line"
+         x="190.19666"
+         y="517.66132"
+         style="text-align:start;text-anchor:start"
+         id="tspan4997">change</tspan></text>
+    <rect
+       style="fill:#dbdbe3;fill-opacity:1;stroke:none"
+       id="rect4999"
+       width="421.11432"
+       height="428.16797"
+       x="312.36093"
+       y="108.83716"
+       rx="10.770187"
+       ry="12.198518" />
+    <g
+       id="g5040"
+       transform="translate(-9.4107282,0)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text5020"
+         y="149.19609"
+         x="348.02811"
+         style="font-size:21.33586884px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="149.19609"
+           x="348.02811"
+           id="tspan5022"
+           sodipodi:role="line">Key Concepts</tspan></text>
+      <flowRoot
+         style="font-size:40px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot5024"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5026"><rect
+             y="168.69481"
+             x="349.138"
+             height="344.43265"
+             width="365.13626"
+             id="rect5028"
+             style="text-align:start;text-anchor:start" /></flowRegion><flowPara
+           style="font-size:18px;text-align:start;text-anchor:start"
+           id="flowPara5030">- Reasonably pure CouchDB is all that is required to create a Steelmesh app.</flowPara><flowPara
+           id="flowPara5034"
+           style="font-size:18px;text-align:start;text-anchor:start" /><flowPara
+           id="flowPara5038"
+           style="font-size:18px;text-align:start;text-anchor:start">- Interface for publishing apps is through the Couch HTTP API, not a custom Steelmesh HTTP API.</flowPara><flowPara
+           style="font-size:18px;text-align:start;text-anchor:start"
+           id="flowPara5050" /><flowPara
+           style="font-size:18px;text-align:start;text-anchor:start"
+           id="flowPara5052">- In theory CouchDB could be replaced by a product offering a similar API. </flowPara></flowRoot>    </g>
+  </g>
+</svg>
