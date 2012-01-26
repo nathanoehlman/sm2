@@ -1,0 +1,3 @@
+{
+    "cannot_create_steelmesh": "Steelmesh database does not exist and unable to create, please supply admin privileges for auto-creation."
+}
