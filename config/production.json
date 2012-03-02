@@ -1,0 +1,16 @@
+{
+    "server": {
+        "stacktrace": true
+    },
+    
+    "geo": {
+        "wfs": "http://localhost:8080/geoserver/wfs"
+    },
+    
+    "admin": {
+        "couchurl": "http://admin:steelmesh@10.211.55.4:5984"
+    },
+    
+    "couchurl": "http://10.211.55.4:5984",
+    "logFlushInterval": 500
+}

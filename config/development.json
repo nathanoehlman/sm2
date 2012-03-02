@@ -1,0 +1,15 @@
+{
+    "server": {
+        "stacktrace": true
+    },
+    
+    "monitor": {
+        "checkInterval": 10
+    },
+    
+    "geo": {
+        "wfs": "http://localhost:8080/geoserver/wfs"
+    },
+    
+    "logFlushInterval": 500
+}

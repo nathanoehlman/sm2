@@ -1,6 +1,33 @@
 {
     "url": "http://localhost:5984/",
     "dbname": "steelmesh",
+
+    "locale": "en_US",
+
+    "server": {
+        "port": 6633,
+        "resourceTimeout": 10,
+        "workers": "auto"
+    },
     
-    "locale": "en_US"
+    "monitor": {
+        "checkInterval": 300,
+        "checkTimeout": 30,
+        "reconnectDelay": 30
+    },
+    
+    "dashboard": {
+        "port": 3274
+    },
+    
+    "admin": {
+        "couchurl": "http://admin:steelmesh@localhost:5984"
+    },
+    
+    "redis": {
+        "port": 6379,
+        "host": "localhost"
+    },
+    
+    "logFlushInterval": 10
 }
