@@ -14,6 +14,7 @@
         "changemachine": ">= 0.3.2",
         "debug": "*",
         "log4js": "0.4.x",
+        "piper": "0.1.x",
         "supercomfy": "*",
         "sprechen": "*",
         "tar": ">= 0.1.8",
