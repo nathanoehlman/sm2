@@ -12,6 +12,7 @@
     "dependencies": {
         "async": "0.1.x",
         "changemachine": ">= 0.3.2",
+        "config": "*",
         "debug": "*",
         "log4js": "0.4.x",
         "piper": "0.1.x",
