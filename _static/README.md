@@ -1,3 +1,3 @@
-# _static
+# _apps
 
-Static files are served out of this directory.  In a production system, you should absolutely be running something like [nginx](http://nginx.org/) to serve these files rather than the internal node server as it is far more efficient. 
+Application files are downloaded from couch into this directory, however, they are neither run nor served from here.  In the event that you want to prototype development of an application and do not have a couch server, then application files can be created manually here and will be loaded into steelmesh as if they were brought down from couch.

@@ -11,9 +11,11 @@
         
     "dependencies": {
         "async": "0.1.x",
+        "attachmate": "0.1.1",
         "changemachine": ">= 0.3.2",
+        "config": "0.4.x",
         "debug": "*",
-        "log4js": "0.4.x",
+        "fstream": "0.1.x",
         "piper": "0.1.x",
         "supercomfy": "*",
         "sprechen": "*",
