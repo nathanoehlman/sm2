@@ -17,6 +17,7 @@
         "debug": "*",
         "fstream": "0.1.x",
         "piper": "0.1.x",
+        "request": ">= 2.9.152",
         "supercomfy": "*",
         "sprechen": "*",
         "tar": ">= 0.1.8",
