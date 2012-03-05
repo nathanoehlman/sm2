@@ -21,7 +21,7 @@
     },
     
     "admin": {
-        "couchurl": "http://admin:steelmesh@localhost:5984"
+        "url": "http://admin:steelmesh@localhost:5984"
     },
     
     "redis": {
