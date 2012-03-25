@@ -1,6 +1,7 @@
 {
-    "url": "http://localhost:5984/",
-    "dbname": "steelmesh",
+    "couchurl": "http://localhost:5984/",
+    "meshdb": "steelmesh",
+    "bridges": ["redis"],
 
     "locale": "en_US",
 
