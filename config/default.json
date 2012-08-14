@@ -30,5 +30,13 @@
         "host": "localhost"
     },
     
+    "allocator": {
+        "port": 9090,
+        "enabled": "true",
+        "seaport": {
+            "secret": "testsecret"
+        }
+    },
+    
     "logFlushInterval": 10
 }
