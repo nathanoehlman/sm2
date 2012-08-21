@@ -38,5 +38,7 @@
         }
     },
     
+    "nginx": "/usr/local/nginx",
+    
     "logFlushInterval": 10
 }
