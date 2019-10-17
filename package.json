@@ -19,7 +19,7 @@
         "fstream": "0.1.x",
         "nano": "1.3.x",
         "piper": "0.1.x",
-        "request": "2.9.x",
+        "request": "2.88.x",
         "rimraf": "2.x.x",
         "sprechen": "*",
         "squirrel": "*",
